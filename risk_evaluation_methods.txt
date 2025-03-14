@@ -1,0 +1,20 @@
+METHOD 1:
+Regular assessments, such as penetration tests, security audits and table-
+top exercises, are conducted to identify vulnerabilities and promote incident response and risk mitigation.
+
+METHOD 2:
+In addition, we have processes designed to oversee and identify cybersecurity risks associated with our use of third-party 
+service providers.
+
+METHOD 3:
+The Audit Committee at least 
+annually receives reports from the Senior Vice President, Chief Information Security Officer (CISO) concerning the Company’s 
+cybersecurity and data security risks, including ongoing efforts to prevent, detect, monitor, remediate and manage such 
+cybersecurity threats, the threat environment, incident updates and emerging cybersecurity practices and technologies.
+
+METHOD 4:
+In addition, the Company’s RMC, a management level committee that includes, among others, the Chief Financial Officer 
+and Chief Legal and Compliance Officer, oversees and supports the Company’s ongoing efforts to identify, assess and 
+prioritize, manage and monitor the Company’s enterprise risks, including risks related to privacy and cybersecurity, and 
+periodically reports certain discussions to the Company’s Chief Executive Officer and Audit Committee.
+
