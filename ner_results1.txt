@@ -1,0 +1,1417 @@
+Named Entity Recognition (NER) Results:
+Entity: UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION, Label: ORG
+Entity: Washington, Label: GPE
+Entity: THE SECURITIES EXCHANGE ACT, Label: ORG
+Entity: THE SECURITIES EXCHANGE ACT, Label: ORG
+Entity: Delaware, Label: GPE
+Entity: Burbank, Label: GPE
+Entity: California 91521
+Address of Principal Executive Offices, Label: ORG
+Entity: Registrant’s Telephone Number, Including Area Code
+Securities, Label: ORG
+Entity: Section 12(b, Label: LAW
+Entity: Common Stock, Label: ORG
+Entity: DIS, Label: ORG
+Entity: New York Stock Exchange
+Securities Registered Pursuant to Section 12(g, Label: ORG
+Entity: the Securities Act, Label: LAW
+Entity: Section 13 or Section 15(d, Label: LAW
+Entity: Section 13 or 15(d, Label: LAW
+Entity: the Securities Exchange Act, Label: ORG
+Entity: Interactive Data File, Label: ORG
+Entity: the Exchange Act, Label: LAW
+Entity: Section 13(a, Label: LAW
+Entity: the Exchange Act, Label: LAW
+Entity: Section 404(b, Label: LAW
+Entity: the Sarbanes-Oxley Act, Label: ORG
+Entity: Section 12(b, Label: LAW
+Entity: the New York Stock Exchange-Composite Transactions, Label: ORG
+Entity: the Securities and Exchange Commission, Label: ORG
+Entity: Documents Incorporated, Label: ORG
+Entity: Company, Label: ORG
+Entity: Legal Proceedings, Label: ORG
+Entity: Issuer Purchases of, Label: ORG
+Entity: Management’s Discussion and Analysis of Financial Condition, Label: ORG
+Entity: Financial Statements, Label: ORG
+Entity: Security Ownership of Certain Beneficial Owners and Management, Label: ORG
+Entity: Principal Accounting Fees and Services, Label: ORG
+Entity: Financial Statement Schedules, Label: ORG
+Entity: Consolidated Financial Information, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: Section 27A, Label: LAW
+Entity: Section 21E, Label: LAW
+Entity: the Securities Exchange Act, Label: ORG
+Entity: Company, Label: ORG
+Entity: IP, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Analysis of Financial Condition, Label: ORG
+Entity: the Securities and Exchange 
+Commission, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Linear Networks, Label: ORG
+Entity: Company, Label: ORG
+Entity: VOD, Label: ORG
+Entity: Content Sales/Licensing, Label: ORG
+Entity: Entertainment, Label: ORG
+Entity: Linear Networks, Label: ORG
+Entity: DTC, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ABC, Label: ORG
+Entity: the ABC Network, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: DTC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: India, Label: GPE
+Entity: Company, Label: ORG
+Entity: Fox Corporation, Label: ORG
+Entity: Warner Bros. Discovery, Inc., Label: ORG
+Entity: DTC, Label: ORG
+Entity: Venu Sports, Label: ORG
+Entity: District Court, Label: ORG
+Entity: New York, Label: GPE
+Entity: Venu Sports, Label: ORG
+Entity: Consolidated Financial Statements, Label: ORG
+Entity: Venu Sports, Label: ORG
+Entity: Company, Label: ORG
+Entity: DTC, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ABC, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ESPN2, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: Southeastern Conference, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ABC, Label: ORG
+Entity: the ABC Network, Label: ORG
+Entity: Company, Label: ORG
+Entity: PENN Entertainment, Inc., Label: ORG
+Entity: ESPN, Label: ORG
+Entity: the National Football League, Label: ORG
+Entity: NFL, Label: ORG
+Entity: the College Football Playoff, Label: ORG
+Entity: the National Basketball Association, Label: ORG
+Entity: NBA, Label: ORG
+Entity: Major League Baseball, Label: ORG
+Entity: MLB, Label: ORG
+Entity: the National Hockey League, Label: ORG
+Entity: NHL, Label: ORG
+Entity: the Professional Golfers’ Association, Label: ORG
+Entity: the Women’s National Basketball Association, Label: ORG
+Entity: SEC, Label: ORG
+Entity: Nielsen Media Research, Label: ORG
+Entity: Nielsen Media Research, Label: ORG
+Entity: SNL Kagan, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: Ultimate Fighting Championship, Label: ORG
+Entity: UFC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: ESPN, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Netherlands, Label: GPE
+Entity: ESPN, Label: ORG
+Entity: Eredivisie Media & 
+Marketing CV, Label: ORG
+Entity: EMM, Label: ORG
+Entity: Company, Label: ORG
+Entity: LaLiga, Label: GPE
+Entity: Bundesliga, Label: GPE
+Entity: UEFA, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: U.S., Label: GPE
+Entity: the World 
+of, Label: ORG
+Entity: Disney, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Walt Disney World Resort, Label: ORG
+Entity: Disney’s Blizzard Beach, Label: ORG
+Entity: Disney’s, Label: ORG
+Entity: Anaheim, Label: GPE
+Entity: California, Label: GPE
+Entity: Disney California Adventure, Label: ORG
+Entity: Downtown Disney, Label: ORG
+Entity: The Disneyland Resort, Label: ORG
+Entity: Adventureland, Label: ORG
+Entity: Bayou Country, Label: GPE
+Entity: Fantasyland, Label: GPE
+Entity: Frontierland, Label: GPE
+Entity: Tomorrowland, Label: GPE
+Entity: Disney California Adventure —, Label: ORG
+Entity: Buena, Label: GPE
+Entity: Vista Street, Label: GPE
+Entity: Cars Land, Label: ORG
+Entity: Hollywood Land, Paradise Gardens Park, Label: ORG
+Entity: Hotels, Vacation Club Units, Label: ORG
+Entity: Company, Label: ORG
+Entity: Downtown Disney, Label: ORG
+Entity: Disney Resort & Spa
+Aulani, Label: ORG
+Entity: Disney Resort & Spa, Label: ORG
+Entity: Oahu, Label: GPE
+Entity: Hawaii, Label: GPE
+Entity: Paris, Label: GPE
+Entity: Paris, Label: GPE
+Entity: Paris, Label: GPE
+Entity: France, Label: GPE
+Entity: Marne-la-Vallée, Label: GPE
+Entity: Paris, Label: GPE
+Entity: Walt Disney Studios Park, Label: ORG
+Entity: Disney Village, Label: GPE
+Entity: Adventureland, Label: ORG
+Entity: Discoveryland, Label: ORG
+Entity: Fantasyland, Label: GPE
+Entity: Walt Disney Studios Park, Label: ORG
+Entity: Walt Disney Studios Park, Label: ORG
+Entity: Front Lot, Production Courtyard, Label: ORG
+Entity: Pixar, Label: ORG
+Entity: Walt Disney Studios Park, Label: ORG
+Entity: Walt Disney Studios Park, Label: ORG
+Entity: Disney Adventure World, Label: ORG
+Entity: Paris, Label: GPE
+Entity: Disney Village, Label: GPE
+Entity: Disney Village, Label: GPE
+Entity: Disney Village, Label: GPE
+Entity: Company, Label: ORG
+Entity: Hong Kong, Label: GPE
+Entity: Hong Kong, Label: GPE
+Entity: the Government of the Hong Kong Special 
+Administrative Region (HKSAR, Label: ORG
+Entity: the Hong Kong International Airport, Label: ORG
+Entity: Hong Kong, Label: GPE
+Entity: Hong Kong Disneyland, Label: GPE
+Entity: Hong Kong, Label: GPE
+Entity: Company, Label: ORG
+Entity: Hong Kong Disneyland, Label: GPE
+Entity: Company, Label: ORG
+Entity: Hong Kong Disneyland, Label: GPE
+Entity: Hong Kong, Label: GPE
+Entity: Hong Kong, Label: GPE
+Entity: Adventureland, Label: GPE
+Entity: Fantasyland, Label: GPE
+Entity: Grizzly 
+Gulch, Label: ORG
+Entity: Mystic Point, Label: ORG
+Entity: Tomorrowland, Label: GPE
+Entity: Toy Story Land and World, Label: ORG
+Entity: Hotels, Label: ORG
+Entity: Hong Kong, Label: GPE
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: Shanghai Shendi (Group) Co., Ltd (Shendi, Label: ORG
+Entity: Pudong, Label: GPE
+Entity: Shanghai, Label: GPE
+Entity: Shanghai, Label: GPE
+Entity: Company, Label: ORG
+Entity: Shendi, Label: ORG
+Entity: Shanghai Disney 
+Resort, Label: ORG
+Entity: Company, Label: ORG
+Entity: Shanghai Disneyland, Label: GPE
+Entity: Shanghai, Label: GPE
+Entity: Mickey Avenue, Label: GPE
+Entity: Tomorrowland, Label: GPE
+Entity: Zootopia, Label: ORG
+Entity: Shanghai, Label: GPE
+Entity: Shanghai Disneyland, Label: GPE
+Entity: Disneytown, Label: ORG
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: Company, Label: ORG
+Entity: Tokyo, Label: GPE
+Entity: Tokyo Disney Resort, Label: ORG
+Entity: Tokyo, Label: GPE
+Entity: Japan, Label: GPE
+Entity: the Tokyo Disney Resort, Label: ORG
+Entity: Oriental Land Co., Ltd., Label: ORG
+Entity: OLC, Label: ORG
+Entity: Tokyo Disneyland, Label: ORG
+Entity: Tokyo, Label: GPE
+Entity: DisneySea, Label: ORG
+Entity: OLC, Label: ORG
+Entity: Ikspiari, Label: GPE
+Entity: Disney, Label: ORG
+Entity: Tokyo, Label: GPE
+Entity: Tokyo, Label: GPE
+Entity: Adventureland, Label: ORG
+Entity: Critter Country, Label: ORG
+Entity: Fantasyland, Label: GPE
+Entity: Tomorrowland, Label: GPE
+Entity: Toontown, Label: ORG
+Entity: Westernland, Label: ORG
+Entity: World Bazaar, Label: ORG
+Entity: Tokyo, Label: GPE
+Entity: DisneySea, Label: ORG
+Entity: Tokyo, Label: GPE
+Entity: DisneySea, Label: ORG
+Entity: American Waterfront, Label: ORG
+Entity: Arabian 
+Coast, Label: GPE
+Entity: Mysterious Island, Label: GPE
+Entity: Resort Facilities, Label: ORG
+Entity: Tokyo Disney Resort, Label: ORG
+Entity: Disney, Label: ORG
+Entity: Ikspiari, Label: GPE
+Entity: Tokyo, Label: GPE
+Entity: DisneySea, Label: ORG
+Entity: Disney Cruise Line, Label: ORG
+Entity: Disney Vacation Club, Label: ORG
+Entity: Reliance Industries Limited, Label: ORG
+Entity: India, Label: GPE
+Entity: India, Label: GPE
+Entity: the Star India Transaction, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: Disney, Label: ORG
+Entity: Healthcare, Label: ORG
+Entity: Orlando, Label: GPE
+Entity: Equity & Inclusion, Label: ORG
+Entity: DEI, Label: ORG
+Entity: DEI, Label: ORG
+Entity: DEI, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Career@Disney, Label: ORG
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Disney, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: Item 1A – Risk Factors, Label: LAW
+Entity: Federal Communications Commission Regulation
+Television, Label: ORG
+Entity: the Federal Communications Commission, Label: ORG
+Entity: FCC, Label: ORG
+Entity: the Communications Act, Label: LAW
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: ABC, Label: ORG
+Entity: CBS, Label: ORG
+Entity: Fox, Label: ORG
+Entity: NBC, Label: ORG
+Entity: The Communications Act, Label: LAW
+Entity: U.S., Label: GPE
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: ABC, Label: ORG
+Entity: The Communications Act, Label: LAW
+Entity: FCC, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Communications Act, Label: LAW
+Entity: FCC, Label: ORG
+Entity: the Communications Act, Label: LAW
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: FCC, Label: ORG
+Entity: Privacy and Data Protection Regulation
+Our, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: the Video Privacy Protection Act, Label: ORG
+Entity: U.S., Label: GPE
+Entity: California, Label: GPE
+Entity: the United States, Label: GPE
+Entity: the General Data Protection Regulation, Label: ORG
+Entity: the European Union, Label: ORG
+Entity: UK, Label: GPE
+Entity: EU, Label: ORG
+Entity: UK, Label: GPE
+Entity: Children’s Online Protection Privacy Act, Label: ORG
+Entity: U.S., Label: GPE
+Entity: UK, Label: GPE
+Entity: U.S., Label: GPE
+Entity: EU, Label: ORG
+Entity: Canada, Label: GPE
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: linear, Label: ORG
+Entity: the U.S. Securities and Exchange Commission, Label: ORG
+Entity: SEC, Label: ORG
+Entity: Disney, Label: ORG
+Entity: Company, Label: ORG
+Entity: SEC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: DTC, Label: ORG
+Entity: linear, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: AI, Label: GPE
+Entity: IP, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: Walt Disney World Resort, Label: ORG
+Entity: Florida, Label: GPE
+Entity: Walt Disney World Resort, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Star India, Label: ORG
+Entity: Entertainment and Sports, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: TFCF Corporation, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: DTC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: NBC, Label: ORG
+Entity: Universal’s, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: Hulu, Label: GPE
+Entity: TFCF, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: Company, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: Hulu, Label: GPE
+Entity: NBCU, Label: ORG
+Entity: Company, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: Hulu, Label: GPE
+Entity: Company, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: Hulu, Label: GPE
+Entity: NBCU, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: CYBERSECURITY, Label: ORG
+Entity: IP, Label: ORG
+Entity: U.S., Label: GPE
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: the United States, Label: GPE
+Entity: the United States, Label: GPE
+Entity: the United States, Label: GPE
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: AI, Label: GPE
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: AI, Label: GPE
+Entity: IP, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: IP, Label: ORG
+Entity: AI, Label: GPE
+Entity: IP, Label: ORG
+Entity: IP, Label: ORG
+Entity: Company, Label: ORG
+Entity: AI, Label: GPE
+Entity: Company, Label: ORG
+Entity: litigation and/or, Label: ORG
+Entity: U.S., Label: GPE
+Entity: FCC, Label: ORG
+Entity: Federal Communications Commission Regulation, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: France, Label: GPE
+Entity: China, Label: GPE
+Entity: Hong Kong, Label: GPE
+Entity: U.S., Label: GPE
+Entity: Russia, Label: GPE
+Entity: Russia, Label: GPE
+Entity: Ukraine, Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: AI, Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: RISKS RELATED TO OWNERSHIP OF OUR STOCK
+, Label: ORG
+Entity: U.S., Label: GPE
+Entity: the Court of Chancery, Label: ORG
+Entity: the State of Delaware, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Court of Chancery of the State of Delaware, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the General Corporation Law, Label: ORG
+Entity: the State of Delaware, Label: ORG
+Entity: the Certificate of Incorporation, Label: ORG
+Entity: the General Corporation Law, Label: ORG
+Entity: Delaware, Label: GPE
+Entity: the Court of Chancery, Label: ORG
+Entity: the State of Delaware, Label: ORG
+Entity: Company, Label: ORG
+Entity: the 
+Securities Exchange Act, Label: ORG
+Entity: the Securities Act, Label: LAW
+Entity: SEC, Label: ORG
+Entity: Cybersecurity
+Risk Management and Strategy, Label: ORG
+Entity: the National Institute of Standards, Label: ORG
+Entity: IRP, Label: ORG
+Entity: IRP, Label: ORG
+Entity: the Cybersecurity Incident Disclosure Subcommittee, Label: ORG
+Entity: the Company’s Risk Management 
+Committee, Label: ORG
+Entity: RMC, Label: ORG
+Entity: Item 1A – Risk Factors, Label: LAW
+Entity: Audit Committee, Label: ORG
+Entity: The Audit Committee, Label: ORG
+Entity: Company, Label: ORG
+Entity: the full Board, Label: ORG
+Entity: the Audit Committee, Label: ORG
+Entity: the Audit Committee Chair, Label: ORG
+Entity: Board, Label: ORG
+Entity: Company, Label: ORG
+Entity: the U.S. Secret Service, Label: ORG
+Entity: Audit Committee, Label: ORG
+Entity: RMC, Label: ORG
+Entity: Cybersecurity Incident Disclosure Subcommittee, Label: ORG
+Entity: RMC, Label: ORG
+Entity: CISO, Label: ORG
+Entity: the Audit Committee, Label: ORG
+Entity: the Board of Directors, Label: ORG
+Entity: Company, Label: ORG
+Entity: Item 1, Label: LAW
+Entity: Company, Label: ORG
+Entity: CA &, Label: ORG
+Entity: Owned Office, Label: ORG
+Entity: Burbank, Label: ORG
+Entity: CA &, Label: ORG
+Entity: Leased Office/Warehouse
+Corporate/Entertainment/
+Experiences
+, Label: ORG
+Entity: Los Angeles, Label: GPE
+Entity: CA
+Land, Label: ORG
+Entity: Owned Office/Production/Technical, Label: ORG
+Entity: Los Angeles, Label: GPE
+Entity: CA
+Buildings, Label: ORG
+Entity: Leased Office, Label: ORG
+Entity: New York, Label: GPE
+Entity: NY
+Buildings, Label: ORG
+Entity: Owned Office
+Corporate/Entertainment/
+Sports
+, Label: ORG
+Entity: New York, Label: GPE
+Entity: NY
+Buildings, Label: ORG
+Entity: Leased Office/Production/Theater/, Label: ORG
+Entity: Owned Office/Production/Technical 
+Sports
+Bristol, Label: ORG
+Entity: Leased Office/Warehouse/Technical 
+Sports
+Emeryville, Label: ORG
+Entity: CA
+Land, Label: ORG
+Entity: Owned Office/Production/Technical
+Entertainment
+Emeryville, Label: ORG
+Entity: Leased Office/Storage
+Entertainment
+, Label: ORG
+Entity: San Francisco, Label: GPE
+Entity: CA
+Buildings, Label: ORG
+Entity: Leased Office, Label: ORG
+Entity: Technical/Theater, Label: ORG
+Entity: Corporate/Entertainment
+USA & Canada
+Land and Buildings (Multiple, Label: ORG
+Entity: Australia, Label: GPE
+Entity: Leased Office/Warehouse/Retail/
+Residential
+Entertainment/Experiences, Label: ORG
+Entity: Glendale, Label: ORG
+Entity: CA, Label: ORG
+Entity: North Hollywood, Label: GPE
+Entity: CA, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: Company, Label: ORG
+Entity: Mine Safety Disclosures, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Board of Directors, Label: ORG
+Entity: Board of Directors, Label: ORG
+Entity: Hugh F. Johnston
+, Label: ORG
+Entity: the
+Board of Directors, Label: ORG
+Entity: Executive, Label: ORG
+Entity: the Board of Directors, Label: ORG
+Entity: Company, Label: ORG
+Entity: PepsiCo, Inc., Label: ORG
+Entity: PepsiCo, Label: ORG
+Entity: PepsiCo, Label: ORG
+Entity: Quaker Foods North America, Label: ORG
+Entity: PepsiCo, Label: ORG
+Entity: Global Operations, Label: ORG
+Entity: Pepsi-Cola North America, Label: ORG
+Entity: Operations, Label: ORG
+Entity: PepsiCo Beverages and Foods, Label: ORG
+Entity: PepsiCo’s, Label: ORG
+Entity: Mergers and Acquisitions, Label: ORG
+Entity: PepsiCo, Label: ORG
+Entity: Business Planner, Label: ORG
+Entity: Merck & Co., Label: ORG
+Entity: PepsiCo, Label: ORG
+Entity: Microsoft Corporation, Label: ORG
+Entity: HCA Healthcare, Inc., Label: ORG
+Entity: General Counsel, Label: ORG
+Entity: General Counsel, Label: ORG
+Entity: Company, Label: ORG
+Entity: Head of Global Affairs, Label: ORG
+Entity: Spotify Technology
+S.A., Label: ORG
+Entity: Spotify, Label: GPE
+Entity: Spotify’s General Counsel, Label: ORG
+Entity: Business & Legal Affairs, Label: ORG
+Entity: Human Resources, Label: ORG
+Entity: Disney General Entertainment, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: Human Resources for Disney General Entertainment, Label: ORG
+Entity: Disney Consumer Products, Label: ORG
+Entity: Global Communications, Label: ORG
+Entity: the United States, Label: GPE
+Entity: the U.S. Department of Health and Human Services, Label: ORG
+Entity: Global Communications, Label: ORG
+Entity: Instagram, Label: ORG
+Entity: Meta Platforms, Inc., Label: ORG
+Entity: the Company’s Common Equity, Label: ORG
+Entity: Issuer Purchases of, Label: ORG
+Entity: the New York Stock Exchange, Label: ORG
+Entity: DIS, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: Company, Label: ORG
+Entity: Section 12, Label: LAW
+Entity: the Exchange Act, Label: LAW
+Entity: the Inflation Reduction Act, Label: LAW
+Entity: Company, Label: ORG
+Entity: Management’s Discussion and Analysis of Financial Condition, Label: ORG
+Entity: Disney, Label: ORG
+Entity: Diluted, Label: ORG
+Entity: Disney, Label: ORG
+Entity: Organization of Information
+Management’s Discussion and Analysis, Label: ORG
+Entity: Company, Label: ORG
+Entity: Unallocated Shared Expenses
+•
+Liquidity and, Label: ORG
+Entity: Capital Resources
+•
+Developments, Label: ORG
+Entity: Key Definitions, Label: ORG
+Entity: Disney, Label: ORG
+Entity: EPS, Label: ORG
+Entity: Disney, Label: ORG
+Entity: EPS, Label: ORG
+Entity: Income Tax Reserve Adjustments, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: Hulu, Label: GPE
+Entity: Major League Baseball’s, Label: ORG
+Entity: National Geographic, Label: ORG
+Entity: Hong Kong Disneyland, Label: GPE
+Entity: DraftKings, Label: ORG
+Entity: Parks & Experiences
+Domestic, Label: ORG
+Entity: Parks & Experiences
+Domestic, Label: ORG
+Entity: Programming, Label: ORG
+Entity: Company, Label: ORG
+Entity: Star India, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: the Consolidated 
+Financial Statements, Label: ORG
+Entity: Legal and Tax Matters, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: DTC, Label: ORG
+Entity: linear, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: linear, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Star India Transaction, Label: ORG
+Entity: Star India, Label: ORG
+Entity: the Consolidated 
+Financial Statements, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: Contingencies and Litigation, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DESCRIPTIONS, Label: ORG
+Entity: KEY, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Disney+, Label: ORG
+Entity: Hulu Live TV + SVOD, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Canada, Label: GPE
+Entity: India, Label: GPE
+Entity: Disney+, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: Hulu Live TV + SVOD, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Canada, Label: GPE
+Entity: Disney+, Label: ORG
+Entity: Pay-Per-View, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Hulu Live TV + SVOD, Label: ORG
+Entity: SVOD, Label: ORG
+Entity: the Hulu SVOD, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Canada, Label: GPE
+Entity: U.S., Label: GPE
+Entity: Canada, Label: GPE
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: Disney+, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: TWDC Enterprises 18 Corp., Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: the Securities Act, Label: LAW
+Entity: the “Securities Act, Label: LAW
+Entity: Indenture, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: Citibank, Label: ORG
+Entity: N.A., Label: GPE
+Entity: the “TWDC Indenture, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: the 
+Securities Act, Label: LAW
+Entity: the TWDC Indenture, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: Indenture, Label: ORG
+Entity: Wells Fargo Bank, Label: ORG
+Entity: National 
+Association, Label: ORG
+Entity: Trustee, Label: ORG
+Entity: Trustee, Label: ORG
+Entity: the Obligor Group, Label: ORG
+Entity: Par Value
+Carrying 
+Value
+Par Value
+Carrying 
+Value
+Registered, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: Legacy Disney, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Obligor Group’s, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Obligor Group, Label: ORG
+Entity: the Obligor Group, Label: ORG
+Entity: the Obligor Group, Label: ORG
+Entity: TWDC, Label: ORG
+Entity: the Securities and Exchange Commission Regulation S-X Rule, Label: ORG
+Entity: Financial Disclosures, Label: ORG
+Entity: Issuers of Guaranteed Securities, Label: ORG
+Entity: the Obligor 
+Group, Label: ORG
+Entity: U.S., Label: GPE
+Entity: TWDC, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: Chinese yuan, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: the Consolidated Financial Statements, Label: ORG
+Entity: VAR, Label: ORG
+Entity: VAR, Label: ORG
+Entity: Company, Label: ORG
+Entity: VAR, Label: ORG
+Entity: VAR, Label: ORG
+Entity: VAR, Label: ORG
+Entity: Company, Label: ORG
+Entity: VAR, Label: ORG
+Entity: VAR, Label: ORG
+Entity: Financial Statements, Label: ORG
+Entity: Financial Statements and Supplemental Data, Label: ORG
+Entity: the Securities Exchange Act, Label: LAW
+Entity: SEC, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Securities Exchange Act, Label: ORG
+Entity: Management’s Report, Label: ORG
+Entity: Internal Controls, Label: ORG
+Entity: the Company’s Board, Label: ORG
+Entity: the Securities Exchange 
+Act, Label: ORG
+Entity: Company, Label: ORG
+Entity: Disclosure Regarding Foreign Jurisdictions that Prevent Inspections, Label: ORG
+Entity: the Audit Committee, Label: ORG
+Entity: The Board of Directors, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the New York Stock Exchange, Label: ORG
+Entity: Company, Label: ORG
+Entity: Exhibit 19, Label: LAW
+Entity: General Instruction, Label: ORG
+Entity: ITEM 11, Label: LAW
+Entity: the Compensation 
+Committee, Label: ORG
+Entity: Security Ownership of Certain Beneficial Owners and Management, Label: ORG
+Entity: Principal Accounting Fees and Services
+Information, Label: ORG
+Entity: Non-Audit Services, Label: ORG
+Entity: Financial Statement Schedules
+, Label: ORG
+Entity: Financial Statements and Supplemental Data, Label: ORG
+Entity: Restated Certificate of Incorporation of The Walt 
+Disney Company, Label: ORG
+Entity: the Current Report on Form 8-K, Label: LAW
+Entity: Company, Label: ORG
+Entity: the Restated Certificate of 
+Incorporation of The Walt Disney Company, Label: ORG
+Entity: the Current Report on Form 8-K, Label: LAW
+Entity: Company, Label: ORG
+Entity: the Current Report on Form 8-K, Label: LAW
+Entity: Company, Label: ORG
+Entity: Restated Certificate of Incorporation, Label: ORG
+Entity: TWDC Enterprises 18 Corp., Label: ORG
+Entity: the Current Report on Form 8-K, Label: LAW
+Entity: the Current Report on Form 8-K, Label: LAW
+Entity: Certificate of Elimination of Series B Convertible 
+Preferred Stock of The Walt Disney Company, Label: ORG
+Entity: State, Label: ORG
+Entity: the Current Report on Form 8-K, Label: LAW
+Entity: TWDC Enterprises, Label: ORG
+Entity: Wells Fargo Bank, Label: ORG
+Entity: N.A., Label: GPE
+Entity: Trustee, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: TWDC 
+Enterprises 18 Corp., Label: ORG
+Entity: Wells Fargo Bank, Label: ORG
+Entity: N.A., Label: GPE
+Entity: The Walt Disney Company, Label: ORG
+Entity: TWDC 
+Enterprises 18 Corp., Label: ORG
+Entity: Citibank, Label: ORG
+Entity: N.A., Label: GPE
+Entity: Company, Label: ORG
+Entity: Regulation S-K., Label: ORG
+Entity: Commission, Label: ORG
+Entity: Amended and Restated Employment Agreement, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: The Walt 
+Disney Company, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: Hugh F. Johnston, Label: ORG
+Entity: Company, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: Hugh F. Johnston, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Employment 
+Agreement, Label: ORG
+Entity: Disney 
+Corporate Services Co., Label: ORG
+Entity: LLC, Label: ORG
+Entity: the Indemnification Agreement, Label: LAW
+Entity: Company, Label: ORG
+Entity: the Employment 
+Agreement, Label: ORG
+Entity: Disney 
+Corporate Services Co., Label: ORG
+Entity: LLC, Label: ORG
+Entity: the Indemnification Agreement, Label: LAW
+Entity: Company, Label: ORG
+Entity: Disney Corporate Services Co., Label: ORG
+Entity: LLC, Label: ORG
+Entity: The Walt Disney 
+Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Disney Corporate Services 
+Co., Label: ORG
+Entity: LLC, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: DEI, Label: ORG
+Entity: Management Incentive Bonus Program, Label: ORG
+Entity: Bonus, Label: ORG
+Entity: Methods - Objectives and, Label: ORG
+Entity: Non-Employee Directors 
+Stock, Label: ORG
+Entity: Disney Key Employees Retirement Savings Plan, Label: ORG
+Entity: Restated Benefit 
+Equalization Plan, Label: ORG
+Entity: ABC, Inc., Label: ORG
+Entity: Disney Key 
+Employees Retirement Savings Plan, Label: ORG
+Entity: the Disney Key Employees 
+Retirement Savings Plan, Label: ORG
+Entity: the Disney Key Employees 
+Retirement Savings Plan, Label: ORG
+Entity: Amended and Restated Severance Pay Plan, Label: ORG
+Entity: Group Personal Excess Liability Insurance Plan, Label: ORG
+Entity: Non-Qualified Stock Option Award 
+Agreement, Label: ORG
+Entity: Non-Qualified Stock Option Award 
+Agreement, Label: ORG
+Entity: Performance-Based Stock Unit, Label: ORG
+Entity: Vesting Requirement, Label: ORG
+Entity: Performance-Based Stock Unit, Label: ORG
+Entity: Vesting Requirement, Label: ORG
+Entity: Non-Qualified Stock Option Award 
+Agreement, Label: ORG
+Entity: Non-Qualified Stock Option Award 
+Agreement, Label: ORG
+Entity: Non-Qualified Stock Option Award 
+Agreement, Label: ORG
+Entity: Performance-Based Restricted Stock Unit, Label: ORG
+Entity: Non-Qualified Stock Option Award Agreement, Label: ORG
+Entity: Total Shareholder Return/ROIC Tests, Label: ORG
+Entity: Form of Stock Option Awards Agreement, Label: ORG
+Entity: Fox, Inc., Label: ORG
+Entity: TFCF, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: Associated Companies 
+Insider Trading Compliance Policy, Label: ORG
+Entity: the Sarbanes-Oxley Act, Label: ORG
+Entity: the Sarbanes-Oxley Act, Label: ORG
+Entity: Section 1350 Certification of Chief Executive, Label: ORG
+Entity: Section 906, Label: LAW
+Entity: Section 1350 Certification of Interim Chief Financial 
+Officer, Label: ORG
+Entity: The Walt Disney Company Clawback Policy, Label: ORG
+Entity: Inline Extensible Business 
+Reporting Language, Label: ORG
+Entity: Comprehensive Income, Label: ORG
+Entity: the Consolidated 
+Balance Sheets, Label: ORG
+Entity: the Consolidated Statements of Equity, Label: ORG
+Entity: Regulation S-K., Label: ORG
+Entity: SEC, Label: ORG
+Entity: Section 906, Label: LAW
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: SEC, Label: ORG
+Entity: Section 13 or 15(d, Label: LAW
+Entity: the Securities Exchange Act, Label: ORG
+Entity: the Securities Exchange Act, Label: ORG
+Entity: Principal Financial, Label: ORG
+Entity: Hugh F. Johnston, Label: ORG
+Entity: Financial Planning and Tax, Label: ORG
+Entity: Board, Label: ORG
+Entity: ON INTERNAL CONTROL, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Internal Control - Integrated Framework, Label: ORG
+Entity: the Committee of Sponsoring Organizations, Label: ORG
+Entity: Internal Control - Integrated Framework, Label: ORG
+Entity: PricewaterhouseCoopers LLP, Label: ORG
+Entity: the Board of Directors, Label: ORG
+Entity: The Walt Disney Company
+Opinions, Label: ORG
+Entity: the Financial Statements and Internal Control, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: Internal Control - 
+Integrated Framework, Label: ORG
+Entity: the Committee of Sponsoring Organizations of the Treadway Commission, Label: ORG
+Entity: COSO, Label: ORG
+Entity: the United States of America, Label: GPE
+Entity: Company, Label: ORG
+Entity: Internal Control - Integrated 
+Framework, Label: ORG
+Entity: COSO, Label: ORG
+Entity: Management’s Report, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Public Company Accounting Oversight Board, Label: ORG
+Entity: U.S., Label: GPE
+Entity: the Securities and Exchange Commission, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Company, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Company, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Company, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Los Angeles, Label: GPE
+Entity: California, Label: GPE
+Entity: Company, Label: ORG
+Entity: IP, Label: ORG
+Entity: Hulu Live, Label: GPE
+Entity: ESPN, Label: ORG
+Entity: ABC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ABC, Label: ORG
+Entity: the ABC Network, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: DTC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: India, Label: GPE
+Entity: Company, Label: ORG
+Entity: Fox Corporation, Label: ORG
+Entity: Warner Bros. Discovery, Inc., Label: ORG
+Entity: DTC, Label: ORG
+Entity: Venu Sports, Label: ORG
+Entity: District Court, Label: ORG
+Entity: New York, Label: GPE
+Entity: Venu Sports, Label: ORG
+Entity: Venu Sports, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: ABC, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: TFCF Corporation, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: Revenues
+Entertainment
+, Label: ORG
+Entity: A+E. The Company’s, Label: ORG
+Entity: Content License Early Termination(1, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Content License Early Termination, Label: ORG
+Entity: IP, Label: ORG
+Entity: Content License Early Termination, Label: ORG
+Entity: DraftKings, Inc., Label: ORG
+Entity: Company, Label: ORG
+Entity: DraftKings, Label: ORG
+Entity: TFCF, Label: ORG
+Entity: DTC, Label: ORG
+Entity: the Consolidated 
+Balance Sheet, Label: ORG
+Entity: the Consolidated Statements of Cash Flows, Label: ORG
+Entity: Investments
+Investments, Label: ORG
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: DTC, Label: ORG
+Entity: Paris, Label: GPE
+Entity: DTC, Label: ORG
+Entity: the Consolidated 
+Statements of Income, Label: ORG
+Entity: U.S., Label: GPE
+Entity: the Consolidated Balance Sheets, Label: ORG
+Entity: the Consolidated Statements of Income, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: FCC, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: linear, Label: ORG
+Entity: Star India, Label: ORG
+Entity: Tata Play Limited, Label: ORG
+Entity: CTV Specialty Television, Inc., Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Consolidated Statements of Income, Label: ORG
+Entity: Hong Kong Disneyland, Label: GPE
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: Company, Label: ORG
+Entity: The Asia Theme Parks, Label: ORG
+Entity: Disneyland Paris, Label: ORG
+Entity: the International Theme Parks, Label: ORG
+Entity: Hong Kong, Label: GPE
+Entity: Company, Label: ORG
+Entity: Hong Kong, Label: GPE
+Entity: Hong Kong, Label: GPE
+Entity: Company, Label: ORG
+Entity: Hong Kong Disneyland, Label: GPE
+Entity: Hong Kong, Label: GPE
+Entity: Company, Label: ORG
+Entity: Hong Kong, Label: GPE
+Entity: Company, Label: ORG
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: Shanghai Shendi (Group) Co., Ltd (Shendi, Label: ORG
+Entity: Company, Label: ORG
+Entity: Shanghai Disney 
+Resort, Label: ORG
+Entity: Company, Label: ORG
+Entity: Shendi, Label: ORG
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: Company, Label: ORG
+Entity: Shanghai Disney Resort, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Bank Facilities, Label: ORG
+Entity: Company, Label: ORG
+Entity: Facility, Label: ORG
+Entity: the Secured Overnight Financing Rate, Label: ORG
+Entity: non-U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: Moody’s Ratings, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: Decreases, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Decreases, Label: ORG
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Company’s Investment, Label: ORG
+Entity: Administrative Committee, Label: ORG
+Entity: Company, Label: ORG
+Entity: NAV, Label: ORG
+Entity: NAV, Label: ORG
+Entity: U.S. Treasury, Label: ORG
+Entity: U.S. Treasury, Label: ORG
+Entity: NAV, Label: ORG
+Entity: NAV, Label: ORG
+Entity: Company, Label: ORG
+Entity: Medicare, Label: ORG
+Entity: Assumptions
+Assumptions, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Healthcare, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Board of Directors, Label: ORG
+Entity: the Board of Directors, Label: ORG
+Entity: the Board of Directors, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Inflation Reduction Act, Label: LAW
+Entity: Company, Label: ORG
+Entity: AOCI, Label: ORG
+Entity: Unrecognized
+Pension, Label: ORG
+Entity: ESPN, Label: ORG
+Entity: Marvel, Label: ORG
+Entity: FCC, Label: ORG
+Entity: NBA, Label: ORG
+Entity: NFL, Label: ORG
+Entity: the College Football Playoff, Label: ORG
+Entity: NHL, Label: ORG
+Entity: WNBA, Label: ORG
+Entity: MLB, Label: ORG
+Entity: UFC, Label: ORG
+Entity: Star India, Label: ORG
+Entity: the U.S., Label: ORG
+Entity: District Court, Label: ORG
+Entity: California, Label: GPE
+Entity: Company, Label: ORG
+Entity: the Disney Media, Label: ORG
+Entity: the Securities Class Action, Label: ORG
+Entity: Section 10(b, Label: LAW
+Entity: the Exchange Act and Rule 10b-5, Label: LAW
+Entity: Section 20A, Label: LAW
+Entity: the Exchange Act, Label: LAW
+Entity: the Exchange Act, Label: LAW
+Entity: the Securities Class Action, Label: ORG
+Entity: Hugues Gervat, Label: ORG
+Entity: U.S., Label: GPE
+Entity: District Court, Label: ORG
+Entity: California, Label: GPE
+Entity: Stourbridge Investments, Label: ORG
+Entity: LLC, Label: ORG
+Entity: U.S., Label: GPE
+Entity: District Court, Label: ORG
+Entity: the District of Delaware, Label: GPE
+Entity: Plaintiff, Label: ORG
+Entity: U.S., Label: GPE
+Entity: District Court, Label: ORG
+Entity: California, Label: GPE
+Entity: The Walt Disney Company, Label: ORG
+Entity: the Disney Media, Label: ORG
+Entity: Kareem 
+Daniel, Label: ORG
+Entity: the Disney Board, Label: ORG
+Entity: 14(a, Label: GPE
+Entity: the Securities Exchange Act, Label: ORG
+Entity: the Securities Class Action, Label: ORG
+Entity: Delaware, Label: GPE
+Entity: Gervat, Label: ORG
+Entity: the Securities Class Action, Label: ORG
+Entity: McAdams, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: the U.S., Label: ORG
+Entity: District Court, Label: ORG
+Entity: YouTube TV, Label: ORG
+Entity: Section 1 of the Sherman Act, Label: LAW
+Entity: Disney, Label: ORG
+Entity: the U.S., Label: ORG
+Entity: District Court, Label: ORG
+Entity: California, Label: GPE
+Entity: the Biddle Action, Label: ORG
+Entity: Company, Label: ORG
+Entity: the “Consolidated Complaint, Label: ORG
+Entity: The Consolidated 
+Complaint, Label: ORG
+Entity: Section 1, Label: LAW
+Entity: Arizona, Label: GPE
+Entity: California, Label: GPE
+Entity: Florida, Label: GPE
+Entity: Illinois, Label: GPE
+Entity: Iowa, Label: GPE
+Entity: Massachusetts, Label: GPE
+Entity: Michigan, Label: GPE
+Entity: Nevada, Label: GPE
+Entity: New York, Label: GPE
+Entity: North Carolina, Label: GPE
+Entity: Tennessee, Label: GPE
+Entity: the Biddle Action, Label: ORG
+Entity: the Fendelander Action, Label: LAW
+Entity: The Consolidated Complaint, Label: ORG
+Entity: the Consolidated Complaint, Label: ORG
+Entity: Consolidated Complaint, Label: ORG
+Entity: Court, Label: ORG
+Entity: the U.S., Label: ORG
+Entity: District Court, Label: ORG
+Entity: Company, Label: ORG
+Entity: ESPN, Inc., Label: ORG
+Entity: ESPN Enterprises, Inc., Label: ORG
+Entity: LLC, Label: ORG
+Entity: Fox Corporation, Label: ORG
+Entity: Warner Bros. Discovery, Inc., Label: ORG
+Entity: fuboTV Inc., Label: ORG
+Entity: fuboTV Media Inc., Label: ORG
+Entity: Section 1, Label: LAW
+Entity: Section 7, Label: LAW
+Entity: the Clayton Act, Label: LAW
+Entity: New York, Label: GPE
+Entity: ESPN, Inc., Label: ORG
+Entity: Fox Corporation, Label: ORG
+Entity: Warner Bros. Discovery, Inc., Label: ORG
+Entity: Company, Label: ORG
+Entity: Fox Corporation, Label: ORG
+Entity: YouTube, Label: ORG
+Entity: Hulu + Live TV, Label: ORG
+Entity: Hulu + Live TV’s, Label: ORG
+Entity: Fubo, Label: ORG
+Entity: Defendants, Label: ORG
+Entity: the Sports Streaming JV, Label: ORG
+Entity: Fubo, Label: ORG
+Entity: Fubo, Label: ORG
+Entity: the Sports Streaming JV, Label: ORG
+Entity: Fubo, Label: ORG
+Entity: Fubo, Label: ORG
+Entity: the United States Court, Label: ORG
+Entity: the Second Circuit, Label: ORG
+Entity: The United States Court of Appeals, Label: ORG
+Entity: the Second 
+Circuit, Label: ORG
+Entity: Company, Label: ORG
+Entity: Fubo’s, Label: ORG
+Entity: Section 1, Label: LAW
+Entity: New York, Label: GPE
+Entity: Company, Label: ORG
+Entity: NBCU, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: the Asia Theme Parks, Label: ORG
+Entity: Fair Value Measure, Label: ORG
+Entity: Credit Concentrations
+The Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Interest Rate Risk Management
+The Company, Label: ORG
+Entity: Company, Label: ORG
+Entity: Hedged Borrowings, Label: ORG
+Entity: the Consolidated Statements of Income, Label: ORG
+Entity: AOCI, Label: ORG
+Entity: Company, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: AOCI, Label: ORG
+Entity: AOCI, Label: ORG
+Entity: AOCI, Label: ORG
+Entity: AOCI, Label: ORG
+Entity: Restructuring and, Label: ORG
+Entity: the Star India Transaction, Label: ORG
+Entity: Star India, Label: ORG
+Entity: DTC, Label: ORG
+Entity: linear, Label: ORG
+Entity: Company, Label: ORG
+Entity: linear, Label: ORG
+Entity: DTC, Label: ORG
+Entity: linear, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: DTC, Label: ORG
+Entity: Russia, Label: GPE
+Entity: Russia, Label: GPE
+Entity: the Financial Accounting Standards Board, Label: ORG
+Entity: FASB, Label: ORG
+Entity: CODM, Label: ORG
+Entity: CODM, Label: ORG
+Entity: Company, Label: ORG
+Entity: FASB, Label: ORG
+Entity: U.S., Label: GPE
+Entity: U.S., Label: GPE
+Entity: Company, Label: ORG
+Entity: FASB, Label: ORG
+Entity: Company, Label: ORG
+Entity: the Securities and Exchange Commission, Label: ORG
+Entity: the Securities and Exchange Commission, Label: ORG
+Entity: General Motors Company, Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: Hugh F. Johnston
+Amy L. Chang
+Maria Elena Lagomasino, Label: ORG
+Entity: Cisco Systems, Label: ORG
+Entity: lululemon athletica inc., Label: ORG
+Entity: The Walt Disney Company, Label: ORG
+Entity: CVS Health Corporation, Label: ORG
+Entity: Morgan Stanley, Label: ORG
+Entity: the Board
+Disney, Label: ORG
+Entity: the New York Stock Exchange, Label: ORG
+Entity: DIS, Label: ORG
+Entity: The Walt Disney Company
+, Label: ORG
+Entity: Disney Shareholder Services, Label: ORG
+Entity: Providence, Label: GPE
+Entity: Company, Label: ORG
+Entity: the Securities and Exchange 
+Commission, Label: ORG
+
+Top Mentioned Regulatory Entities:
+Company: 187 times
+U.S.: 74 times
+DTC: 62 times
+FCC: 24 times
+IP: 23 times
+ESPN: 22 times
+The Walt Disney Company: 15 times
+Disney+: 15 times
+Hong Kong: 13 times
+the Consolidated Financial Statements: 13 times
